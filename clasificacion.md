@@ -23,3 +23,14 @@ Este tipo de juegos requieren **encarecidamente** que sigas el ritmo de la pista
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rhythm_Heaven_Logo.svg/1200px-Rhythm_Heaven_Logo.svg.png" alt="Rhythm Heaven" width="500"/>
 
 ---
+
+## 🎼 Juegos de Música
+Juegos donde la música hace una sinergia asombrosa con el nivel, pero no es un elemento vital o extremadamente importante a la hora de jugar, por lo que en la mayoria de casos, seria muy posible jugarlos sin volumen.
+
+**Ejemplos:**
+- **Geometry Dash:** Un juego de música y plataformas donde tu objetivo es atravesar todos los obstáculos que aparecen en sincronía con la melodía de fondo y alcanzar el 100% de progreso en el nivel.
+    - Para jugar, cada nivel tiene su canción predefinida y los obstáculos aparecen mientras suena la canción, manejas vehículos o saltas con el cubo predeterminado para evitar los peligros. La particularidad de este juego es que, incluso sin tener una noción del ritmo, puedes moverte a través de los niveles, pues se requiere más que nada precisión, memoria, o buenos reflejos.
+
+    _Nota: existen niveles donde el ritmo es muy necesario en determinadas partes como es el caso de **[Lonely Travel](https://youtu.be/suO-qCbQ3xg?si=0eKLdeEfaiXYsCx0&t=111)**, pero esto no ocurre en más del 1% de niveles, pues en la comunidad existen cientos de miles de niveles_
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnGzhFMurd-DNy0A5tPgcQyrQyzIdpiaDfg&s" alt="Geometry Dash" width="500"/>
