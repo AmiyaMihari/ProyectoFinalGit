@@ -49,3 +49,16 @@ Calculadora de matrices programada completamente en lenguaje ensamblador, utiliz
 - DOSBox
 
 ---
+
+## 5. Entorno 3D con C++, OpenGL y Modelado en 3DSMax
+**Descripción:**  
+Simulación de un entorno en 3D sobre un zoologico que combina programación en C++ con OpenGL para renderizado, y modelos diseñados en 3DS Max. Ideal para pruebas de navegación, iluminación y colisiones básicas.
+
+<img src="https://opengl.org/img/opengl_logo.png" alt="OpenGL" width="200"/>
+
+**Tecnologías:**  
+- C++
+- OpenGL
+- Autodesk 3DS Max
+
+---
