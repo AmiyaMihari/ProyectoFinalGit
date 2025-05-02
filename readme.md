@@ -20,3 +20,15 @@ Una lista de los proyectos más importantes en los que he trabajado, con una bre
 Una guía personal para entender cómo divido los juegos de ritmo según su nivel de "ritmicidad". Con ejemplos, comentarios y advertencias para que no digas que *Guitar Hero* y *Just Dance* son lo mismo.
 
 ---
+
+## Notas
+
+- Este repositorio está hecho para compartir mi visión personal, pero si te identificas con algo, ¡bienvenido!
+- Opiniones debatibles, pero correctas, no es mi culpa que estes en lo incorrecto (broma).
+- Se aceptan pull requests de juegos de ritmo mal clasificados (bajo tu propio riesgo).
+
+---
+
+## 🚀 Autor
+
+Hecho por Cristopher Velasco, programador en ascenso y jugador de ritmo. 
