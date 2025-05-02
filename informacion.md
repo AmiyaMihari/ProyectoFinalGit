@@ -22,3 +22,9 @@
 - **Favorite Movies/TV Shows:** _Toy Story 3 (aka best Pixar movie)_, _How i met your mother_ 
 
 ---
+
+## 📬 Contacto
+- **Email:** [cris_fer_bob@hotmail.com](mailto:cris_fer_bob@hotmail.com)  
+- **GitHub:** [github.com/criz004](https://github.com/criz004)  
+
+---
