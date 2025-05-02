@@ -62,3 +62,15 @@ Simulación de un entorno en 3D sobre un zoologico que combina programación en 
 - Autodesk 3DS Max
 
 ---
+
+## 📋 Resumen pro!
+
+| # | Proyecto                                     | Lenguaje Principal | Tipo                  |
+|---|----------------------------------------------|--------------------|-----------------------|
+| 1 | Simulador de Terminal con MP3                | Bash               | Terminal              |
+| 2 | Canción con Buzzers y LCD                    | Micropython        | Microcontroladores    |
+| 3 | Intérprete con Python Lex-Yacc               | Python             | Lenguajes / Parsers   |
+| 4 | Calculadora de Matrices en ASM               | Ensamblador 8086   | Sistemas / Bajo nivel |
+| 5 | Entorno 3D con C++ y OpenGL                  | C++                | Gráficos 3D           |
+
+---
