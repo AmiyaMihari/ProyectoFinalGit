@@ -46,3 +46,25 @@ Juegos donde la música hace una sinergia asombrosa con el nivel, pero no es un 
 <img src="https://store-images.s-microsoft.com/image/apps.49270.13730886355493425.5206edad-e4bc-42ca-93c1-abaf47b8bd59.50cc6b63-a48f-4528-b98c-1f9101eb285a?q=90&w=480&h=270" alt="JSAB" width="500"/>
 
 ---
+
+## 🎮 Juegos de Música *¡y!* Ritmo
+Aquí se combinan los dos elementos: el jugador debe de seguir el ritmo si quiere superar la totalidad del juego, aunque, a su vez, si se tiene ya una noción de cómo es la melodía, o el nivel en general, un jugador lo suficientemente experimentado podria superarlo sin la ayuda de estos elementos.
+
+**Ejemplos:**
+- **Rhythm Doctor:** Trabajas como pasante en un hospital, tu trabajo es ayudar a todos los pacientes a mantenerse sanos y salvos manteniendo su ritmo cardiaco en orden.
+    - La jugabilidad de cada nivel es con ayuda de la canción de fondo: se presenta un cardiograma donde aparecen beats en sincronia con la canción. La tarea principal es presionar la barra espaciadora o el boton de acción en el séptimo beat, aunque esta mecánica puede variar dependiendo del avance en el juego.
+
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/774181/capsule_616x353.jpg?t=1741877372" alt="Rhythm Doctor" width="500"/>  
+
+- **A Dance of Fire and Ice:** Controlas un par de planetas orbitando al ritmo de la música, debes atravesar una serie de azulejos ordenados en una cuadrícula.
+    - Explicar la jugabilidad de este juego es un poco compleja, la forma más tecnica y compleja de explicarlo es: manejas un par de planetas que órbita uno alrededor del otro, dicha órbita se mueve al ritmo de una canción, donde cada beat de la canción es media orbita del planeta. Siendo asi que, al seguir el ritmo de la canción, los planetas se mueven en linea recta. Este ritmo puede variar segun la forma de los azulejos.
+    Es importante seguir el ritmo porque es la base de **todos** los niveles, sin embargo, si ya se tiene una noción de cómo es el nivel y su música, se podria prescindir de lo anterior.
+
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/977950/capsule_616x353.jpg?t=1734406213" alt="ADOFAI" width="500"/>
+
+- **Rift of the Necrodancer:** Una vez más, controlas a Cadence y compañia para defenderse de hordas de monstruos, esta vez salen de una ruptura en el espacio! Todos los enemigos tienen una forma de moverse, asi que debes de estar atento a todos ellos.
+    - La jugabilidad es una combinación de Crypt of the Necrodancer, y Guitar Hero. Por lo que es el mejor exponente de un juego de ritmo y música. Hay una cinta (o mejor conocida como chart) en donde aparecen monstruos moviéndose hacia ti al ritmo de la música. Cada monstruo tiene un patrón y comportamiento distintos. Por lo que es necesario tanto tener una noción del ritmo de la melodia, mientras, a la vez, debes procesar correctamente cada uno de los elementos visuales.
+
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073250/header.jpg?t=1745447257" alt="Rift of the Necrodancer" width="500"/>
+
+---
