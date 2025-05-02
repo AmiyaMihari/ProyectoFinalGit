@@ -41,3 +41,5 @@
 <img src="https://ericknavarro.io/images/thumbnails/24.png" alt="Python" width="200"/>
 
 ---
+
+_"Gracias por ver, dar a like y suscribanse"_
