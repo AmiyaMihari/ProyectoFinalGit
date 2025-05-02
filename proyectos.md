@@ -37,3 +37,15 @@ Creación de un intérprete propio utilizando `PLY` (Python Lex-Yacc). Soporta o
 - PLY (Lex/Yacc)
 
 ---
+
+## 4. Calculadora de Matrices en Ensamblador 8086
+**Descripción:**  
+Calculadora de matrices programada completamente en lenguaje ensamblador, utilizando el set de instrucciones del procesador 8086. Soporta operaciones básicas como suma, resta y multiplicación, ademas de la capacidad de imprimir la hora en tiempo real.
+
+<img src="https://5.imimg.com/data5/SELLER/Default/2023/4/304266243/GO/WZ/WC/9448924/8086-microprocessor-trainer-kit.jpg" alt="8086" width="200"/>
+
+**Tecnologías:**  
+- Ensamblador 8086
+- DOSBox
+
+---
