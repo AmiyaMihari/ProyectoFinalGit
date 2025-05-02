@@ -28,3 +28,11 @@
 - **GitHub:** [github.com/criz004](https://github.com/criz004)  
 
 ---
+
+## 🎉 Datos curiosos
+- Realmente amo Undertale y Deltarune
+
+- Deltarune el 5 de junio
+- Mi banda/artista de música favorito es el duo francés Justice
+
+- Una vez hice un interprete como proyecto en PLY (Python Lex-Yacc)
