@@ -13,3 +13,12 @@
 | **Ubicación:**           | Ecatepec de Morelos, Edo. de México|
 | **Ocupación:**           | Estudiante, próximo becario        |
 | **Lenguajes hablados:**  | Español, Inglés intermedio         |
+
+---
+
+## 🎯 Gustos
+- **Hobbies:** Ver videos, jugar videojuegos, investigar teorias de juegos y programación en ensamblador  
+- **Favorite Music:** Videojuegos OST, EDM (Electronic Dance Music)    
+- **Favorite Movies/TV Shows:** _Toy Story 3 (aka best Pixar movie)_, _How i met your mother_ 
+
+---
