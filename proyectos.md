@@ -65,25 +65,10 @@ Simulación de un entorno en 3D sobre un zoologico que combina programación en 
 
 ## 📋 Resumen pro!
 
-| # | Proyecto                                     | Lenguaje Principal | Tipo                  |
-|---|----------------------------------------------|--------------------|-----------------------|
-| 1 | Simulador de Terminal con MP3                | Bash               | Terminal              |
-| 2 | Canción con Buzzers y LCD                    | Micropython        | Microcontroladores    |
-| 3 | Intérprete con Python Lex-Yacc               | Python             | Lenguajes / Parsers   |
-| 4 | Calculadora de Matrices en ASM               | Ensamblador 8086   | Sistemas / Bajo nivel |
-| 5 | Entorno 3D con C++ y OpenGL                  | C++                | Gráficos 3D           |
-
----
-
-## ⚙️ Tecnologías Usadas
-
-| Tecnología         | Aplicación                                                |
-|--------------------|-----------------------------------------------------------|
-| Bash               | Terminal personalizada, ejecución de scripts              |
-| mpg123             | Reproducción de archivos MP3 en terminal                  |
-| Micropython        | Control de hardware con Raspberry Pi Pico                 |
-| Python / PLY       | Análisis léxico y sintáctico                              |
-| Ensamblador 8086   | Manipulación de memoria a bajo nivel                      |
-| DOSBox             | Entorno de emulación                                      |
-| C++ / OpenGL       | Simulación 3D, manejo de gráficos                         |
-| 3DS Max            | Modelado de objetos                                       |
+| # | Proyecto                                     | Lenguaje Principal | Tipo                  | Tecnologias |
+|---|----------------------------------------------|--------------------|-----------------------|-------------|
+| 1 | Simulador de Terminal con MP3                | Bash               | Terminal              | Bash, mpg123|
+| 2 | Canción con Buzzers y LCD                    | Micropython        | Microcontroladores    | Micropython |
+| 3 | Intérprete con Python Lex-Yacc               | Python             | Lenguajes / Parsers   | Python, PLY |
+| 4 | Calculadora de Matrices en ASM               | Ensamblador 8086   | Sistemas / Bajo nivel | 8086, DOSBox|
+| 5 | Entorno 3D con C++ y OpenGL                  | C++                | Gráficos 3D           | C++. OpenGL |
