@@ -25,3 +25,15 @@ Proyecto de microcontroladores en el que se reproduce una canción especial para
 - Pantalla LCD 16x2
 
 ---
+
+## 3. Intérprete Personalizado con Python Lex-Yacc
+**Descripción:**  
+Creación de un intérprete propio utilizando `PLY` (Python Lex-Yacc). Soporta operaciones básicas, estructuras de control y manejo de variables.
+
+<img src="https://media.tenor.com/_E-NCczd1nYAAAAj/python.gif" alt="Python" width="200"/>
+
+**Tecnologías:**  
+- Python
+- PLY (Lex/Yacc)
+
+---
