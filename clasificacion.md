@@ -34,3 +34,15 @@ Juegos donde la música hace una sinergia asombrosa con el nivel, pero no es un 
     _Nota: existen niveles donde el ritmo es muy necesario en determinadas partes como es el caso de **[Lonely Travel](https://youtu.be/suO-qCbQ3xg?si=0eKLdeEfaiXYsCx0&t=111)**, pero esto no ocurre en más del 1% de niveles, pues en la comunidad existen cientos de miles de niveles_
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnGzhFMurd-DNy0A5tPgcQyrQyzIdpiaDfg&s" alt="Geometry Dash" width="500"/>
+
+- **Guitar Hero/Rock Band:** Juego de música donde manejas principalmente a una banda de rock que toca temas existosos de bandas influyentes de la vida real. Se juega principalmente en un mando con forma de guitarra.
+    - Para jugar, se usan cinco botones de colores y un boton de _rasgueo_, resulta que este juego es más de música que de ritmo debido a que, nuevamente, aunque no tengas una noción maravillosa del ritmo, puedes jugarlo con facilidad debido a que los elementos visuales ayudan muchisimo a la experiencia comoda del jugador.
+
+<img src="https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2015/03/GuitarHeroRockBand.jpg" alt="Guitar Hero Rock Band" width="500"/>
+
+- **Just Shapes & Beats:** Juego donde ayudas a un pequeño cuadrado azul a moverse a traves de las peligrosas zonas rosas que se mueven al ritmo de la música. Incluyendo temas de artistas de música chiptune muy conocidos entre la comunidad como Kubbi, o Chipzel.
+    - Para jugar, una canción suena de fondo mientras zonas peligrosas de color rosa aparecen en sincronía con la música. Una vez más, para superar estos niveles es importante escuchar la música, pues dan pistas importantes sobre los obstaculos y cómo se van a mover, pero a su vez, los elementos visuales son suficientes para superar la totalidad del juego, por lo que no es necesario tener una noción maravillosa del ritmo.
+
+<img src="https://store-images.s-microsoft.com/image/apps.49270.13730886355493425.5206edad-e4bc-42ca-93c1-abaf47b8bd59.50cc6b63-a48f-4528-b98c-1f9101eb285a?q=90&w=480&h=270" alt="JSAB" width="500"/>
+
+---
