@@ -12,3 +12,16 @@ Simulador de terminal desarrollado completamente con bash e instrucciones basica
 - Interfaz de Github CLI
 
 ---
+
+## 2. Canción de Cumpleaños con Buzzers y LCD
+**Descripción:**  
+Proyecto de microcontroladores en el que se reproduce una canción especial para una persona especial usando instrucciones de buzzers en micropython.
+
+<img src="https://www.olimex.com/Products/MicroPython/_images/mp.jpg" alt="Micropython" width="200"/>
+
+**Tecnologías:**  
+- Microcontroladores (Raspberry Pi Pico)
+- Micropython
+- Pantalla LCD 16x2
+
+---
