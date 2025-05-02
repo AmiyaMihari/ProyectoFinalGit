@@ -68,3 +68,10 @@ Aquí se combinan los dos elementos: el jugador debe de seguir el ritmo si quier
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073250/header.jpg?t=1745447257" alt="Rift of the Necrodancer" width="500"/>
 
 ---
+
+## 🧠 Notas Finales
+- ~~La clasificación puede variar según la percepción del jugador.~~ Esta clasificación es definitiva y 100% precisa, cualquier queja, contactar al autor.
+- Si disfrutas tanto como yo los juegos de ritmo, sientete libre de copiar este formato y llenarlo con tus juegos preferidos
+- Hay muchos juegos importantes de ritmo que no coloqué como Project Diva o Osu! debido a que son juegos donde no estoy experimentado y me gusta colocar joyas _ocultas_
+
+#### Atentamente: alguien que ama los juegos de ritmo
